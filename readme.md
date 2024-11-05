@@ -9,6 +9,9 @@ This project is a **desktop GUI application** built with **DelphiFMX for Python*
 - **Real-time Status Updates**: The app provides feedback on the process and updates once the image remodeling is complete.
 - **Uses Replicate's Model**: The app integrates with the [adirik/interior-design](https://replicate.com/adirik/interior-design) model on Replicate to process your room image based on the provided design prompt.
 
+## Screenshot
+![Screenshot](screenshot.png)
+
 ## Technologies Used
 
 - [DelphiFMX for Python](https://github.com/Embarcadero/DelphiFMX4Python): For building the desktop GUI.
